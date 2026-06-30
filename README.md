@@ -1,6 +1,6 @@
 ## Hi there, i'm *Gonçalo Costa* 👋
 
-Self taught programmer with a passion for **software development** 💻.
+22yo self taught programmer from **Portugal** with a passion for **software development** 💻.
 
 ## About me 🫠
 I'm passionate about **technology**, **gaming** and **cinema**. From 2016 until 2025, I dedicated myself to becoming a professional **Rocket League** player, eventually competing at the *professional level*.
