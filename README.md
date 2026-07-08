@@ -10,6 +10,5 @@ Now im pursuing a different path and goal that is **Software Engineering**.
 
 ### Current Focus 
 - Web Development 💻
-- AI & Machine Learning 🤖
 
 
