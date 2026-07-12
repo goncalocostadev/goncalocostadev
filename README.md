@@ -22,4 +22,3 @@ Aspiring **Full Stack Developer** 🇵🇹 <br>
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/kryznex) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
