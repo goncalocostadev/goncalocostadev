@@ -3,7 +3,6 @@
 Aspiring **Full Stack Developer** 🇵🇹 <br>
 🎥 Documenting my development journey live on **YouTube and Twitch** <br>
 📍 Vila Real, Portugal <br>
-🐧 Linux user
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/THybSPCds) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/goncalocostadev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https:x.com/goncalocostadev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@goncalocostadev) 
